@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Rudra 👋
 
-<!--
-**rudraxlaza/rudraxlaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Builder | Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm a student passionate about software development, problem-solving, and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional projects, experimenting with new tools, and understanding how technology works behind the scenes.
+
+---
+
+### About Me
+
+- 🎓 Student interested in Computer Science and Software Engineering.
+- 💻 Building software projects and exploring new technologies.
+- 🤖 Interested in AI, automation, and backend development.
+- 🌱 Constantly learning, experimenting, and improving.
+- 🔍 Believe in learning by building, breaking, and rebuilding.
+
+---
+
+### Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- HTML & CSS
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux
+- VS Code
+- REST APIs
+- SQL
+
+---
+
+### Connect With Me
+
+- GitHub: [@rudraxlaza](https://github.com/rudraxlaza)
+- Portfolio: Coming soon
+
+---
